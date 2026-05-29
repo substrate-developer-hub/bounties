@@ -31,5 +31,17 @@
 			"https://github.com/sam0x17/docify/pull/30",
 			"https://github.com/sam0x17/docify/releases/tag/v0.3.0"
 		]
-	}
+	},
 ]
+[
+  { ... old entry 1 ... },
+  { ... old entry 2 ... },
+  { ... old entry 3 ... },
+  { ... old entry 4 ... },
+  {
+    "author": "1DanWave2",
+    "description": "PAPI XCM Cookbook — three chapters covering setup, teleport on Paseo, and Chopsticks debugging. Includes a runnable companion repo with TypeScript examples.",
+    "evidence": "https://github.com/1DanWave2/papi-xcm-cookbook"
+  }
+]
+
